@@ -18,6 +18,14 @@ shellbox 是一个用于简化日常命令行任务的工具集合，提供了�
 
 #### 使用
 
+```bash
+# 安装运行
+bash <(curl -sSL https://is.gd/dpdrPB)
+# 或者
+source <(curl -sSL https://is.gd/dpdrPB)
+# 以上两种方式任选其一即可
+```
+
 ### Git 账号管理 (git-account-manager.sh)
 
 - 多 GitHub 账号管理
@@ -36,17 +44,15 @@ shellbox 是一个用于简化日常命令行任务的工具集合，提供了�
   - 自动储藏本地更改
   - 冲突解决辅助
 
-### 系统管理工具
+#### 使用
 
-- 自动检测系统环境
-- 依赖包自动安装
-- 配置文件管理
-
-### 开发辅助工具
-
-- 工作区管理
-- 项目配置自动化
-- 开发环境初始化
+```bash
+# 安装运行
+bash <(curl -sSL https://is.gd/bxsNEY)
+# 或者
+source <(curl -sSL https://is.gd/bxsNEY)
+# 以上两种方式任选其一即可
+```
 
 ## 注意事项
 

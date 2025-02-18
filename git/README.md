@@ -46,26 +46,6 @@
 - 文件变更追踪
 - 统计分析
 
-## 安装说明
-
-1. 下载脚本到本地：
-
-```bash
-curl -o git-account-manager.sh https://raw.githubusercontent.com/Alan-aka/shellbox/git/git-account-manager.sh
-```
-
-2. 添加执行权限：
-
-```bash
-chmod +x git-account-manager.sh
-```
-
-3. 建议添加别名到 `.zshrc` 或 `.bash_profile`：
-
-```bash
-echo 'alias gam="~/path/to/git-account-manager.sh"' >> ~/.zshrc
-```
-
 ## 使用指南
 
 ### 账号管理
